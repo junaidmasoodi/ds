@@ -1,0 +1,47 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:100,300,400,900';
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond:500i';
+* {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+img {
+  max-width: 100%;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 300;
+  margin-top: 1em;
+}
+p.setting--up {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5em;
+  padding: 1em;
+  margin-bottom: 1em;
+  color: #04a080;
+}
+.supported-by {
+  padding: 1em;
+  border-top: 1px solid #ececec;
+  margin-bottom: 1.5em;
+}
+.supported-by p {
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.supported-by img {
+  padding: 0 10px
+}
+div.sponsor {
+  padding: 1em;
+  background-color: #04a080;
+  color: #fff;
+}
+div.sponsor .one {
+  padding-bottom: 10px;
+}
+.copy {
+  margin-top: 1em;
+  font-weight: 100;
+}
